@@ -1,5 +1,4 @@
-[![DOI](https://zenodo.org/badge/1403293912.svg)](https://doi.org/10.5281/zenodo.23127039)
-
+[[DOI](https://zenodo.org/badge/1403293912.svg)](https://doi.org/10.5281/zenodo.23127039)
 # CODEX VACUI V2.1 - LOCKED FOR EUCLID DR1
 
 **Lock date: 2026-10-03 - Before Euclid DR1 (2026-11-12)**
