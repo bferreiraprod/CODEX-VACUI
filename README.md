@@ -14,3 +14,4 @@
 
 SHA256 + 4 pages locked. Code frozen in v2.1-lock-final-3.
 Cite as: Ferreira B. (2026). CODEX VACUI V2.1. Zenodo. https://doi.org/10.5281/zenodo.23127040
+License: CC BY 4.0
