@@ -1,5 +1,5 @@
-[![DOI](https://zenodo.org/badge/1403293912.svg)](https://doi.org/10.5281/zenodo.23127039)
-# CODEX VACUI V2.1 - LOCKED FOR EUCLID DR1
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23127040.svg)](https://doi.org/10.5281/zenodo.23127040)
+**CODEX VACUI V2.1 — LOCKED 2026-10-03 for Euclid DR1 (2026-11-12) — 42 blinded predictions**
 
 **Lock date: 2026-10-03 - Before Euclid DR1 (2026-11-12)**
 **DOI: 10.5281/zenodo.23127040 (Version) / 10.5281/zenodo.23127039 (Concept)**
